@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 es la forma de trabajar de github...
+=======
+chupas mamador
+>>>>>>> origin/master
 
 
 eres la perrita mas mamadora del mundo
